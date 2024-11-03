@@ -638,7 +638,7 @@ Also, make sure to pass the `basePath` page prop to the `<SessionProvider>` – 
 In this example, the custom base path used is `/custom-route`.
 
 ```
-NEXTAUTH_URL=https://example.com/custom-route/api/auth
+NEXTAUTH_URL=https://example.com
 ```
 
 ```jsx title="pages/_app.js"
